@@ -89,8 +89,6 @@ const nathaniel = {
 
 ### GitHub Stats
 
-### GitHub Stats
-
 <div align="center">
 
 <img width="95%" src="github-metrics.svg" alt="GitHub Profile Metrics" />

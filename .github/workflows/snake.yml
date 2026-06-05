@@ -5,16 +5,24 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+# 1. ALLOW THE WORKFLOW TO WRITE TO THE REPOSITORY
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      # 2. CHECKOUT THE REPOSITORY SO THE RUNNER CAN SEE AND WRITE TO THE WORKSPACE
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk@v3
         with:
           github_user_name: Ricky-zzz
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output

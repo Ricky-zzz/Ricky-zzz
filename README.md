@@ -89,14 +89,11 @@ const nathaniel = {
 
 ### GitHub Stats
 
+### GitHub Stats
+
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ricky-zzz&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricky-zzz&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Ricky-zzz&theme=github-dark-blue&hide_border=true" />
+<img width="95%" src="github-metrics.svg" alt="GitHub Profile Metrics" />
 
 </div>
 

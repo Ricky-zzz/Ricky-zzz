@@ -56,7 +56,7 @@ const nathaniel = {
   <tr>
     <td width="50%" valign="top">
       <h4>VOTERRA & COUNTERRA</h4>
-      <p>Simulated digital voting ecosystem — client voting platform + centralized tallying server with encrypted vote handling and result verification.</p>
+      <p>Simulated digital voting ecosystem: client voting platform + centralized tallying server with encrypted vote handling and result verification.</p>
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
@@ -72,7 +72,7 @@ const nathaniel = {
   <tr>
     <td width="50%" valign="top">
       <h4>Math Monkey</h4>
-      <p>Gamified arithmetic learning platform for elementary students — dynamic problem generation, timed exercises, and progression-based difficulty.</p>
+      <p>Gamified arithmetic learning platform for elementary students with dynamic problem generation, timed exercises, and progression-based difficulty.</p>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
       <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpine.js&logoColor=black"/>
     </td>

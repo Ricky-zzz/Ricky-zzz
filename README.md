@@ -113,8 +113,7 @@ const nathaniel = {
 
 <div align="center">
 
-*"Build things that simplify lives — one commit at a time."*
+*"Build things that simplify lives, ONE commit at a time."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ricky-zzz&color=58a6ff&style=flat-square&label=Profile+Views)
 
 </div>
